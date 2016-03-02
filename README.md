@@ -1,7 +1,7 @@
 # blackjack
 Python Blackjack Game
 
-TODO: 
+## To Do: 
 * Edit the handling of ACES
 * Add spliting cards
 * Invite to play again
